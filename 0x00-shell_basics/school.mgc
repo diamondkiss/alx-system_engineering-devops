@@ -1,2 +1,2 @@
 #!/bin/bash
-file -m my-magic.mgc school.*
+ls -apm | sort -d
