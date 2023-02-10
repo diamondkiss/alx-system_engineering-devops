@@ -1,2 +1,2 @@
-$ file -m school.mgc myfile.dat
-myfile.dat: School data file
+0 string SCHOOL School data
+!:mime School
