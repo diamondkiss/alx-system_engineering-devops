@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Best School' > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+cat file_7 | touch \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
